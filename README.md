@@ -91,13 +91,13 @@ This interactive Power BI dashboard provides detailed insights into sales perfor
 ## 📱 Screenshots
 
 ### Financial Overview
-![Financial Overview](screenshots/financial-overview.png)
+![Financial Overview](Screenshot%202025-09-01%20112126.png)
 
 ### Products & Locations  
-![Products & Locations](screenshots/products-locations.png)
+![Products & Locations](Screenshot%202025-09-01%20112142.png)
 
 ### Team Performance
-![Team Performance](screenshots/team-performance.png)
+![Team Performance](image.png)
 
 ## 🤝 Contributing
 
