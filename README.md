@@ -99,6 +99,10 @@ This interactive Power BI dashboard provides detailed insights into sales perfor
 ### Team Performance
 ![Team Performance](screenshots/team-performance.png)
 
+### Products & Locations 
+![Team Performance](image.png)
+>>>>>>> 5e24860103a2d733874a6a96872681b25a5e0b24
+
 ## 🤝 Contributing
 
 If you'd like to contribute to this dashboard:
